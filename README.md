@@ -1,2 +1,3 @@
-# Flappy-Bird-Sprite-Asset
-Flappy Bird Sprite Asset files provided for everyone.
+# Flappy-Bird-Asset
+Flappy Bird Asset files provided for everyone.
+(Including sprites and fonts)
